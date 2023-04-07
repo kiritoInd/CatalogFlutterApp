@@ -4,8 +4,8 @@ import "package:flutter/material.dart";
 class MyDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final imageUrl =
-        "https://media.licdn.com/dms/image/C4E03AQEAC3KP3z6v5w/profile-displayphoto-shrink_800_800/0/1662839682866?e=2147483647&v=beta&t=IdmlHo4U0gCppjApivKqBhRIeyErVpXHyU2L73gkBMI";
+    const imageUrl =
+        "https://media.licdn.com/dms/image/D4D03AQGo0mkncnGMVg/profile-displayphoto-shrink_800_800/0/1680773620591?e=1686182400&v=beta&t=8R62xeiDkKQzyyO2T4NTtNZW36O8H2YklBcErZQpp1o";
     return Drawer(
       child: Container(
         color: Colors.deepPurple,
