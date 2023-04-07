@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th genration",
+            "price": 699,
+            "color": "#33505a",
+            "image": "https://lh3.googleusercontent.com/3TmTxwhOLipVp34y4Auhsihlvg0l4lDDX2aUnVkCAaqrhMtlvgN5-bAlQfkKvRbAqgLRYK3EYSzpuThvmNqy8-wd6COHlNEPaf4utq5CGg"
+
+
+        },
+        {
+            "id": 2,
+            "name": "iPhone 13 Pro",
+            "desc": "Apple iPhone 13th genration",
+            "price": 899,
+            "color": "#33505a",
+            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1664009609/Croma%20Assets/Communication/Mobiles/Images/243463_0_qtsxpd.png/mxw_2048,f_auto"
+
+
+        },
+        {
+            "id": 3,
+            "name": "iPhone 14 Pro",
+            "desc": "Apple iPhone 14th genration",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://img.poorvika.com/cdn-cgi/image/width=1600,height=1600,quality=75/1600_JPG/Mobiles/Apple/Apple-iPhone-14-Pro-Max/Black/Apple-iPhone-14-Pro-Max-black-3.jpg"
+
+
+        }
+        ,
+        {
+            "id": 4,
+            "name": "Samsung Galaxy S23",
+            "desc": "Samsung Galaxy S23 5G (8GB RAM, 256GB, Green)",
+            "price": 799,
+            "color": "#33505a",
+            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1675357372/Croma%20Assets/Communication/Mobiles/Images/268870_ropo4x.png/mxw_2048,f_auto"
+
+
+        }
+        
+        ,
+        {
+            "id": 5,
+            "name": "OnePlus 10 Pro",
+            "desc": "OnePlus 10 Pro 5G (12GB RAM, 256GB, Emerald Forest)",
+            "price": 599,
+            "color": "#33505a",
+            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666992109/Croma%20Assets/Communication/Mobiles/Images/250716_rea31a.png/mxw_2048,f_auto"
+
+
+        }
+        
+        ,
+        {
+            "id": 6,
+            "name": "SAMSUNG Galaxy Z Fold4",
+            "desc": "SAMSUNG Galaxy Z Fold4 5G (12GB RAM, 256GB, Gray Green)",
+            "price": 299,
+            "color": "#33505a",
+            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666100267/Croma%20Assets/Communication/Mobiles/Images/260532_0_z3u9cx.png/mxw_2048,f_auto"
+
+
+        }
+        
+        
+
+ 
+
+    ]
+        
+    
+}
