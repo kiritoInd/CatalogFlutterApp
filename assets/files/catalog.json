@@ -6,7 +6,7 @@
             "desc": "Apple iPhone 12th genration",
             "price": 699,
             "color": "#33505a",
-            "image": "https://lh3.googleusercontent.com/3TmTxwhOLipVp34y4Auhsihlvg0l4lDDX2aUnVkCAaqrhMtlvgN5-bAlQfkKvRbAqgLRYK3EYSzpuThvmNqy8-wd6COHlNEPaf4utq5CGg"
+            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662424479/Croma%20Assets/Communication/Mobiles/Images/229927_cg7jzk.png/mxw_2048,f_auto"
 
 
         },
@@ -16,7 +16,7 @@
             "desc": "Apple iPhone 13th genration",
             "price": 899,
             "color": "#33505a",
-            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1664009609/Croma%20Assets/Communication/Mobiles/Images/243463_0_qtsxpd.png/mxw_2048,f_auto"
+            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1664009491/Croma%20Assets/Communication/Mobiles/Images/243460_0_n90peu.png/mxw_2048,f_auto"
 
 
         },
@@ -26,7 +26,7 @@
             "desc": "Apple iPhone 14th genration",
             "price": 999,
             "color": "#33505a",
-            "image": "https://img.poorvika.com/cdn-cgi/image/width=1600,height=1600,quality=75/1600_JPG/Mobiles/Apple/Apple-iPhone-14-Pro-Max/Black/Apple-iPhone-14-Pro-Max-black-3.jpg"
+            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662703724/Croma%20Assets/Communication/Mobiles/Images/261934_qgssvy.png/mxw_2048,f_auto"
 
 
         }
@@ -34,10 +34,10 @@
         {
             "id": 4,
             "name": "Samsung Galaxy S23",
-            "desc": "Samsung Galaxy S23 5G (8GB RAM, 256GB, Green)",
+            "desc": "Samsung Galaxy S23 5G",
             "price": 799,
             "color": "#33505a",
-            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1675357372/Croma%20Assets/Communication/Mobiles/Images/268870_ropo4x.png/mxw_2048,f_auto"
+            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1675359195/Croma%20Assets/Communication/Mobiles/Images/268993_jr6oxj.png/mxw_2048,f_auto"
 
 
         }
@@ -46,7 +46,7 @@
         {
             "id": 5,
             "name": "OnePlus 10 Pro",
-            "desc": "OnePlus 10 Pro 5G (12GB RAM, 256GB, Emerald Forest)",
+            "desc": "OnePlus 10 Pro Emerald Forest",
             "price": 599,
             "color": "#33505a",
             "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666992109/Croma%20Assets/Communication/Mobiles/Images/250716_rea31a.png/mxw_2048,f_auto"
@@ -58,10 +58,10 @@
         {
             "id": 6,
             "name": "SAMSUNG Galaxy Z Fold4",
-            "desc": "SAMSUNG Galaxy Z Fold4 5G (12GB RAM, 256GB, Gray Green)",
+            "desc": "SAMSUNG Galaxy Z Fold4 5G Gray Green",
             "price": 299,
             "color": "#33505a",
-            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666100267/Croma%20Assets/Communication/Mobiles/Images/260532_0_z3u9cx.png/mxw_2048,f_auto"
+            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666100227/Croma%20Assets/Communication/Mobiles/Images/260533_0_vtjpea.png/mxw_2048,f_auto"
 
 
         }
