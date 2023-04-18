@@ -14,6 +14,7 @@ class HomeDetailPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Back"),
+        backgroundColor: Colors.transparent,
       ),
       backgroundColor: MyTheme.creamColor,
       bottomNavigationBar: Container(
@@ -29,8 +30,8 @@ class HomeDetailPage extends StatelessWidget {
                 backgroundColor:
                     MaterialStateProperty.all(MyTheme.darkBluishColor),
               ),
-              child: "Buy".text.make(),
-            ).wh(100, 50)
+              child: "Add to cart".text.make(),
+            ).wh(120, 50)
           ],
         ).p32(),
       ),
@@ -58,8 +59,15 @@ class HomeDetailPage extends StatelessWidget {
                       catalog.desc.text.xl
                           .textStyle(context.captionStyle)
                           .make(),
+                      " ever since the asdasdadasdasdkjasdkl;jalskdjlk  1500s, when an unknown printer took a galley of of Lorem Ipsum."
+                          .text
+                          .align(TextAlign.center)
+                          .textStyle(context.captionStyle)
+                          .make()
+                          .px(20)
+                          .py(20)
                     ],
-                  ).py(64),
+                  ).py(48),
                 )),
           )
         ]),
