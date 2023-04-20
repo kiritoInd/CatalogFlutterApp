@@ -20,21 +20,23 @@ class MyTheme {
       );
 
   static ThemeData darkTheme(BuildContext context) => ThemeData(
-        brightness: Brightness.dark,
-        primarySwatch: Colors.deepPurple,
-        fontFamily: GoogleFonts.poppins().fontFamily,
-        cardColor: Colors.black,
-        canvasColor: darkCreamColor,
-        primaryColor: lightBluishColor,
-        secondaryHeaderColor: Colors.white,
-        appBarTheme: AppBarTheme(
-          color: Colors.black,
-          elevation: 0.0,
-          iconTheme: IconThemeData(color: Colors.white),
-          toolbarTextStyle: Theme.of(context).textTheme.bodyMedium,
-          titleTextStyle: Theme.of(context).textTheme.titleLarge,
-        ),
-      );
+      brightness: Brightness.dark,
+      primarySwatch: Colors.deepPurple,
+      fontFamily: GoogleFonts.poppins().fontFamily,
+      cardColor: Colors.black,
+      canvasColor: darkCreamColor,
+      primaryColor: lightBluishColor,
+      secondaryHeaderColor: Colors.white,
+      appBarTheme: AppBarTheme(
+        color: Colors.black,
+        elevation: 0.0,
+        iconTheme: IconThemeData(color: Colors.white),
+        toolbarTextStyle: Theme.of(context).textTheme.bodyMedium,
+        titleTextStyle: Theme.of(context)
+            .textTheme
+            .titleLarge
+            ?.copyWith(color: Colors.white),
+      ));
 
   //colors
 
