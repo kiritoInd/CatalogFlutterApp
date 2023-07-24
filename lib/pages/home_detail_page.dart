@@ -6,11 +6,18 @@ import '../modules/catalog.dart';
 class HomeDetailPage extends StatelessWidget {
   final Item catalog;
 
-  const HomeDetailPage({super.key, required this.catalog})
-      : assert(catalog != null);
+  const HomeDetailPage({super.key, required this.catalog});
 
   @override
   Widget build(BuildContext context) {
+    if (catalog.id == null) {
+      // Return a widget indicating that the data is not available
+      return const Scaffold(
+        body: Center(
+          child: Text('Item data not available.'),
+        ),
+      );
+    }
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.transparent,
